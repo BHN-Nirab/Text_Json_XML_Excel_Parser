@@ -1,0 +1,12 @@
+Name = Billal Hosain
+Email = bsse1020@iit.du.ac.bd
+Password = 123456
+Phone Number = +8801772522858
+Name = Nirab Hosain
+Email = bsse1000@iit.du.ac.bd
+Password = 654321
+Phone Number = +8801961737769
+Name = Hosain Nirab
+Email = bsse1099@iit.du.ac.bd
+Password = 987654
+Phone Number = +8801772522030
